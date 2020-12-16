@@ -1,17 +1,16 @@
 # Puppeteer with Jest
 
-```js script
-export default {
-  title: 'Intro/Lion Web Components',
-};
-```
-
 ![Puppeteer-Jest](https://github.com/ghoshasish99/Puppeteer-Jest/workflows/Puppeteer-Jest/badge.svg)
 
-Lion web components is a set of highly performant, accessible and flexible Web Components.
-They provide an unopinionated, white label layer that can be extended to your own layer of components.
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
-For some more details see the [announcement blog post](https://medium.com/ing-blog/ing-open-sources-lion-a-library-for-performant-accessible-flexible-web-components-22ad165b1d3d).
+For more details visit [this page](https://pptr.dev/)
+
+```
+npm install puppeteer
+npm install jest
+npm install jest-puppeteer
+```
 
 ## Demos
 
