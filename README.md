@@ -6,12 +6,12 @@ export default {
 };
 ```
 
+![Puppeteer-Jest](https://github.com/ghoshasish99/Puppeteer-Jest/workflows/Puppeteer-Jest/badge.svg)
+
 Lion web components is a set of highly performant, accessible and flexible Web Components.
 They provide an unopinionated, white label layer that can be extended to your own layer of components.
 
 For some more details see the [announcement blog post](https://medium.com/ing-blog/ing-open-sources-lion-a-library-for-performant-accessible-flexible-web-components-22ad165b1d3d).
-
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.comgithub.com/ing-bank/lion)](https://www.tickgit.com/browse?repo=github.com/ing-bank/lion)
 
 ## Demos
 
