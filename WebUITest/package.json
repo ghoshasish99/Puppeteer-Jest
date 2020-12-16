@@ -1,9 +1,0 @@
-{
-    "jest": {
-        "preset" : "jest-puppeteer"
-    },
-    "scripts" : {
-        "test" : "jest"
-    }
-
-}

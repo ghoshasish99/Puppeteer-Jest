@@ -1,0 +1,1 @@
+export const product = "Apple iPhone 6s Plus"
